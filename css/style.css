@@ -58,18 +58,8 @@ html {height: 100%; margin: 0; padding: 0; width: 100%;}
     margin-bottom: 15px;
     text-transform: uppercase;
 }
-#slider .slide-item .slide-content a {
-    display: inline-block;
-    background-color: #DAA4B1;
-    box-shadow: 0 0 17px 0 rgba(0,0,0,.5);
-    padding: 10px 30px;
-    border-radius: 30px;
-    text-decoration: none;
-    color: #fff;
-    transition: all .3s;
-}
-#slider .slide-item .slide-content a:hover {
-    background-color: #fff;
-    box-shadow:  0 0 20px #000;
-    color: #222;
+#slider .slide-item .slide-content p {
+    font-size: 1.2rem;
+    letter-spacing: 5px;
+
 }
